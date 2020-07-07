@@ -29,7 +29,7 @@ module.exports = class Game {
         let sReply = [];
         switch (this.stateCur) {
             case GameState.WELCOMING:
-                sReply.push("Welcome to Kingdom of HyRule Adventures!");
+                sReply.push("Welcome to Kingdom of ***HYRULE Adventures!***");
                 sReply.push("Your ship got wrecked. You floated to the Kingdom of Central HyRule beach.");
                 sReply.push("Your goal is to reach civilization.");
                 sReply.push("Do you want to go NORTH or SOUTH or WEST?");
