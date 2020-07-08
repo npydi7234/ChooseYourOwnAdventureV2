@@ -30,13 +30,14 @@ Project Link: [https://github.com/npydi7234/ChooseYourOwnAdventureV2](https://gi
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![ChooseYourOwnAdventureGameV2 Screen Shot](https://github.com/npydi7234/ChooseYourOwnAdventureV2/blob/master/images/welcome1.png)
-
 ChooseYourOwnAdventureV2 game is based on Zelda video game series. As a user you have given a situation to choose and prompted with two or more choices to make. Based on the choices you make, you either progress to next level or your adventure ends there and takes back to the beginning of game to play again.
 
 This game has approximately 20 states, 3 states resulting in successful completion, 9 states resulting in failure of reaching destination, and remaining cases /states leads to internal intermediate states.
 
 Any invalid input leaves you in the same state and prompts you for valid input.
+
+## Screenshot
+![ChooseYourOwnAdventureGameV2 Screen Shot](https://github.com/npydi7234/ChooseYourOwnAdventureV2/blob/master/images/welcome1.png)
 
 ### Built With
 ChooseYourOwnAdventureV2 has been built using following technologies:
@@ -105,7 +106,7 @@ Open a Pull Request
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT License. See `LICENSE` for more information.
+Distributed under the MIT License. See [LICENSE.txt](https://github.com/npydi7234/ChooseYourOwnAdventureV2/blob/master/LICENSE.txt) for more information.
 
 
 
