@@ -2,8 +2,12 @@
 *** Thanks for checking out ChooseYourOwnAdventureV2 README! 
 -->
 
-<h2 align="center">Choose your own adventure game version 2</h3>
+Naga Prameela Pydi - [email](https://outlook.office.com/mail/inbox) - npydi7234@conestogac.on.ca
 
+Project Link: [https://github.com/npydi7234/ChooseYourOwnAdventureV2](https://github.com/npydi7234/ChooseYourOwnAdventureV2)
+
+<!-- Project Title -->
+<h1 align="center">ChooseYourOwnAdventureGameV2</h1>
 
 
 <!-- TABLE OF CONTENTS -->
